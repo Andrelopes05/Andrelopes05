@@ -1,3 +1,5 @@
+# 👨‍💻 André Lopes - Estudante de Programação
+
 <div align="left">
   <img align="right" src="./src/study.gif" height="190px"/>
 
