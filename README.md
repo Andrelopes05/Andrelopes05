@@ -7,7 +7,7 @@
   <b>🌱 Sobre Mim</b><br>
       Me chamo André Augusto De Souza Lopes, tenho 20 anos e atualmente estou cursando Bacharel em Sistemas de Informação pela Unoeste de Presidente Prudente, sou e sempre fui apaixonado por computador e programação, meu objetivo é me esforçar ao máximo para dar o meu melhor neste mundo da programação.
 
- <b>🤖 Linguagens e Tecnologias Em Aprendizado</b> <br/>
+ <b>🤖 Linguagens e Tecnologias Em Aprendizado</b> <br/><br/>
 
 <img width="30px" hspace="6" src="cpp_256x256.png"/>
 <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -16,7 +16,7 @@
 <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-<br/><br/>
+<br/>
 
 • <b>Frontend:</b> HTML / CSS / JavaScript / Bootstrap<br>
 • <b>Backend:</b> C++ / Java / Python<br>
