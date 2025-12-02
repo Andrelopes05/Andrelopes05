@@ -22,7 +22,7 @@
 • <b>Backend:</b> C++ / Java / Python<br>
 • <b>Databases:</b> Oracle SQL Developer - SQL
 
-  <br><br>
+  <br>
 
   🎮 <b>Lazeres e Interesses Pessoais</b><br>
   • Games, Animes, Músicas, Linguagens de Programação, Atenção à Família e Namorada
