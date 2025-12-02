@@ -49,6 +49,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+**- **Frontend:** ReactJS, Next.js, VueJS, AngularJS, TailwindCSS, React Native
+- **Backend:** Spring Boot, Boost, ASP.NET Core, Node.js
+- **Databases:** MySQL, PostgreSQL, Oracle, MariaDB, MongoDB, SQLserver
+- **Plus:** OracleCloud, AWS, Azure, Docker, Kubernetes, Terraform, SonarQube, IBM MQ, Dynatrace, GitHub Actions**
+
 <img align="right" alt="" height="190px" src="./src/study.gif">
 <br/>
 <br/>
