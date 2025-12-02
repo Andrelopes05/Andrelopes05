@@ -2,7 +2,7 @@
 
 <div align="left">
 
-  <img align="right" src="./src/study.gif" height="190px"/>
+  <img align="right" src="./src/study.gif" height="220px"/>
 
   <b>🌱 Sobre Mim</b><br>
       Me chamo André Augusto De Souza Lopes, tenho 20 anos e atualmente estou cursando
@@ -19,7 +19,7 @@
 <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-<br style="clear: both;"><br>
+
 
 • <b>Frontend:</b> HTML / CSS / JavaScript / Bootstrap<br>
 • <b>Backend:</b> C++ / Java / Python<br>
