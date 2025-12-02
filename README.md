@@ -50,14 +50,9 @@
 />
 <br/>
 
-*** - Front End - ***
-HTML/CSS/JAVASCRIPT/BOOTSTRAP
-
-*** - Back End - ***
-C++/JAVA/PYTHON
-
-*** - DATABASES - ***
-OracleSQLDeveloper - SQL
+- **Frontend:** HTML/CSS/JAVASCRIPT/BOOTSTRAP
+- **BackEnd:** C++/JAVA/PYTHON
+- **Databases:** OracleSQLDeveloper - SQL
 
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
