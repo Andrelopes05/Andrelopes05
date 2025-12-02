@@ -10,7 +10,7 @@
   Sou e sempre fui apaixonado por computador e programação, meu objetivo é me
   esforçar ao máximo para dar o meu melhor neste mundo da programação.
 
- <b>🤖 Linguagens e Tecnologias Em Aprendizado</b> <br/><br/>
+ <b>🤖 Linguagens e Tecnologias Em Aprendizado</b> <br/>
 
 <img width="30px" hspace="6" src="cpp_256x256.png"/>
 <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
