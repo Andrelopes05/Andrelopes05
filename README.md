@@ -5,7 +5,7 @@
   <img align="right" src="./src/study.gif" height="190px"/>
 
   <b>🌱 Sobre Mim</b><br>
-  Me chamo André Augusto De Souza Lopes, tenho 20 anos e atualmente estou cursando
+      Me chamo André Augusto De Souza Lopes, tenho 20 anos e atualmente estou cursando
   Bacharel em Sistemas de Informação pela Unoeste de Presidente Prudente.  
   Sou e sempre fui apaixonado por computador e programação, meu objetivo é me
   esforçar ao máximo para dar o meu melhor neste mundo da programação.
