@@ -45,3 +45,7 @@
 
   <br clear="right">
 </div>
+---
+
+![Snake animation](https://github.com/Andrelopes05/Andrelopes05/blob/output/github-contribution-grid-snake.svg)
+
