@@ -19,7 +19,7 @@
   • <b>Backend:</b> C++ / Java / Python<br>
   • <b>Databases:</b> Oracle SQL Developer - SQL  
 
-  🎮 Lazeres e Interesses Pessoais <br/><br/>
+  🎮 Lazeres e Interesses Pessoais <br/>
   • Games, Animes, Musicas, Linguagens De Programação, Atenção a Famalia e Namorada
 
 
