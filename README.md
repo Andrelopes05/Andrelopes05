@@ -5,7 +5,7 @@
 
 
   <b>🤖 Linguagens e Tecnologias Em Aprendizado</b>
-  <br/><br/>
+  <br/>
 
   <img width="30px" hspace="6" src="cpp_256x256.png"/>
   <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
