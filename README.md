@@ -1,7 +1,7 @@
 # 👨‍💻 André Lopes - Estudante de Programação
 
 <div align="left">
-  <img align="right" src="./src/study.gif" height="190px"/>
+  <img align="right" src="./src/study.gif" height="200px"/>
 
   # 🌱 Sobre Mim
   Me chamo André Augusto De Souza Lopes tenho 20 anos e atualmente estou cursando Baicharel em Sistemas De Informação
