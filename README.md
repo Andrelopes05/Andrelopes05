@@ -3,6 +3,10 @@
 <div align="left">
   <img align="right" src="./src/study.gif" height="190px"/>
 
+  # 🌱 Sobre Mim
+  Me chamo André Augusto De Souza Lopes tenho 20 anos e atualmente estou cursando Baicharel em Sistemas De Informação
+  pela Unoeste de Presidente Prudente, sou e sempre fui apaixonado por computador e programação, meu objetivo e me
+  esforçar o maximo para dar um meu melhor neste mundo da programação
 
   <b>🤖 Linguagens e Tecnologias Em Aprendizado</b>
   <br/>
