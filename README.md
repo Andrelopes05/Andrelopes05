@@ -3,8 +3,8 @@
 <div align="left">
   <img align="right" src="./src/study.gif" height="190px"/>
 
-  <b>👨‍💻 André Lopes - Estudante de Programação</b><br>
-  <b>🤖 Linguagens e Tecnologias Em Aprendizado</b><br><br>
+
+  <b>🤖 Linguagens e Tecnologias Em Aprendizado</b>
 
 <img width="30px" hspace="6" src="cpp_256x256.png"/>
 <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
