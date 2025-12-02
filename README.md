@@ -1,31 +1,21 @@
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="70%" valign="top">
+<div align="left">
+  <img align="right" src="./src/study.gif" height="190px"/>
 
-<b>👨‍💻 André Lopes - Estudante de Programação</b><br>
-<b>🤖 Linguagens e Tecnologias Em Aprendizado</b><br><br>
+  <b>👨‍💻 André Lopes - Estudante de Programação</b><br>
+  <b>🤖 Linguagens e Tecnologias Em Aprendizado</b><br><br>
 
-<img width="30px" src="cpp_256x256.png"/>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img width="30px" src="cpp_256x256.png"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-<br><br>
+  <br><br>
 
-• <b>Frontend:</b> HTML / CSS / JavaScript / Bootstrap  
-<br>
-• <b>Backend:</b> C++ / Java / Python  
-<br>
-• <b>Databases:</b> Oracle SQL Developer - SQL  
+  • <b>Frontend:</b> HTML / CSS / JavaScript / Bootstrap<br>
+  • <b>Backend:</b> C++ / Java / Python<br>
+  • <b>Databases:</b> Oracle SQL Developer - SQL  
 
-</td>
-
-<td width="30%" align="center" valign="top">
-
-<img src="./src/study.gif" height="190px"/>
-
-</td>
-  </tr>
-</table>
+  <br clear="right">
+</div>
