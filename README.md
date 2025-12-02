@@ -1,5 +1,5 @@
 # 👨‍💻 André Lopes - Estudante de Programação
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias Em Aprendizado
 <img 
     align="left" 
     alt="C++"
