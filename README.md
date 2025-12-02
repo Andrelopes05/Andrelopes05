@@ -20,7 +20,6 @@
   • <b>Databases:</b> Oracle SQL Developer - SQL  
 
   🎮 Lazeres e Interesses Pessoais <br/><br/>
-
   • Games, Animes, Musicas, Linguagens De Programação, Atenção a Famalia e Namorada
 
 
