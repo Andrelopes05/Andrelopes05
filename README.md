@@ -11,7 +11,7 @@
   esforçar ao máximo para dar o meu melhor neste mundo da programação.
 
   <br><br>
-  <b>🤖 Linguagens e Tecnologias Em Aprendizado</b><br>
+  <b>🤖 Linguagens e Tecnologias Em Aprendizado</b><br><br/>
   <img width="30px" hspace="6" src="cpp_256x256.png"/>
   <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
