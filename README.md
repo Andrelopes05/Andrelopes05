@@ -10,18 +10,20 @@
   Sou e sempre fui apaixonado por computador e programação, meu objetivo é me
   esforçar ao máximo para dar o meu melhor neste mundo da programação.
 
-  <b>🤖 Linguagens e Tecnologias Em Aprendizado</b> <br/><br/>
-  <img width="30px" hspace="6" src="cpp_256x256.png"/>
-  <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-  <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <br>
-  <br/><br/>
-  • <b>Frontend:</b> HTML / CSS / JavaScript / Bootstrap<br>
-  • <b>Backend:</b> C++ / Java / Python<br>
-  • <b>Databases:</b> Oracle SQL Developer - SQL  
+ <b>🤖 Linguagens e Tecnologias Em Aprendizado</b> <br/><br/>
+
+<img width="30px" hspace="6" src="cpp_256x256.png"/>
+<img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+<img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+
+<br style="clear: both;"><br>
+
+• <b>Frontend:</b> HTML / CSS / JavaScript / Bootstrap<br>
+• <b>Backend:</b> C++ / Java / Python<br>
+• <b>Databases:</b> Oracle SQL Developer - SQL
 
   <br><br>
 
