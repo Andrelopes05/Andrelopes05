@@ -16,7 +16,7 @@
 <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 <img width="30px" hspace="6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
-<br/>
+<br/><br/>
 
 • <b>Frontend:</b> HTML / CSS / JavaScript / Bootstrap<br>
 • <b>Backend:</b> C++ / Java / Python<br>
